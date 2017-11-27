@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=AIN Pin=FB2-1
+Added Pin To Net: NetName=AIN Pin=R1-2
+Added Net: Name=AIN
+Added Pin To Net: NetName=PWM Pin=FB3-1
+Added Pin To Net: NetName=PWM Pin=RC1-3
+Added Net: Name=PWM
+Added Room: Name=Circadian2

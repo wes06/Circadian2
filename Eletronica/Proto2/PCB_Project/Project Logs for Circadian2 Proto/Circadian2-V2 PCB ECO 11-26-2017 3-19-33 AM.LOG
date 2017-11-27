@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=L20 Old DesignItemId=GW JTLPS1.CM LED New DesignItemId=LED
+Change Component Comment : Designator=FB1 Old Comment= New Comment=10R
+Change Component Comment : Designator=FB2 Old Comment= New Comment=10R
+Change Component Comment : Designator=FB3 Old Comment= New Comment=10R
+Change Component Comment : Designator=FB4 Old Comment= New Comment=10R
+Added Room: Name=Circadian2

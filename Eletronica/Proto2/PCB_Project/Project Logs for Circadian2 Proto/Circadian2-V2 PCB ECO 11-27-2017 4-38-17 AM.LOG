@@ -1,0 +1,12 @@
+Change Component Comment : Designator=RQA Old Comment=0R75 New Comment=10R
+Change Component Comment : Designator=RQB Old Comment=0R75 New Comment=10R
+Change Component Comment : Designator=R1 Old Comment=1k New Comment=10R
+Change Component Comment : Designator=R2 Old Comment=10k New Comment=10R
+Change Component Comment : Designator=LB10 Old Comment=GW JTLPS1 New Comment=LED
+Change Component Description : Designator=RQA Old Description=RCWE0603R750FKEA New Description=RES 10R SM0603 YAGEO RC_L
+Change Component Description : Designator=RQB Old Description=RCWE0603R750FKEA New Description=RES 10R SM0603 YAGEO RC_L
+Change Net Name : Old Net Name=NetL1_1 New Net Name=NetL2_2
+Change Net Name : Old Net Name=NetL10_1 New Net Name=NetLA10_1
+Change Net Name : Old Net Name=NetL11_1 New Net Name=NetL12_2
+Change Net Name : Old Net Name=NetL20_1 New Net Name=NetLB10_1
+Added Room: Name=Circadian2

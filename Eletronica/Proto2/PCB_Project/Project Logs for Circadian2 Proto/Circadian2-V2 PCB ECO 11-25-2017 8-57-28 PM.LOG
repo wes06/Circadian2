@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Added Pin To Net: NetName=LEDVOUT- Pin=R?-1
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ1_1
+Change Net Name : Old Net Name=NetQ?_3 New Net Name=NetQ1_3
+Added Member To Class: ClassName=Circadian2 Member=Component FB? 
+Added Member To Class: ClassName=Circadian2 Member=Component FB? 
+Added Member To Class: ClassName=Circadian2 Member=Component FB? 
+Added Member To Class: ClassName=Circadian2 Member=Component R? 10R
+Added Member To Class: ClassName=Circadian2 Member=Component R? 10R
+Added Member To Class: ClassName=Circadian2 Member=Component R? 10R
+Added Room: Name=Circadian2

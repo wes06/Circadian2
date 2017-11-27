@@ -1,0 +1,6 @@
+Added Component: Designator=L1A(OSLON)
+Added Component: Designator=L2A(OSLON)
+Added Component: Designator=L3A(OSLON)
+Added Member To Class: ClassName=Circadian2 Member=Component L1A LED
+Added Member To Class: ClassName=Circadian2 Member=Component L2A LED
+Added Member To Class: ClassName=Circadian2 Member=Component L3A LED

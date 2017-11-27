@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=NetQ?_3 Pin=Q?-3
+Removed Pin From Net: NetName=NetL10_1 Pin=Q?-4
+Removed Pin From Net: NetName=NetL10_1 Pin=Q?-5
+Removed Pin From Net: NetName=NetL10_1 Pin=Q?-6
+Removed Pin From Net: NetName=NetL20_1 Pin=Q?-7
+Removed Pin From Net: NetName=NetL20_1 Pin=Q?-8
+Removed Pin From Net: NetName=NetQ?_1 Pin=R?-2
+Removed Pin From Net: NetName=NetQ?_3 Pin=R?-2
+Change Component DesignItemId : Designator=R? Old DesignItemId=RC0603FR-0710RL New DesignItemId=RC0805FR-0710RL
+Change Component DesignItemId : Designator=R? Old DesignItemId=RC0805FR-0710RL New DesignItemId=RC0603FR-0710RL
+Change Component Footprint: Designator=R? Old Footprint=RES_SM0603_YAGEORC_N New Footprint=RES_SM0805_YAGEORC_N
+Change Component Footprint: Designator=R? Old Footprint=RES_SM0805_YAGEORC_N New Footprint=RES_SM0603_YAGEORC_N
+Added Pin To Net: NetName=NetQ?_3 Pin=Q?-3
+Added Pin To Net: NetName=NetL10_1 Pin=Q?-4
+Added Pin To Net: NetName=NetL20_1 Pin=Q?-5
+Added Pin To Net: NetName=NetL20_1 Pin=Q?-6
+Added Pin To Net: NetName=NetL10_1 Pin=Q?-7
+Added Pin To Net: NetName=NetL10_1 Pin=Q?-8
+Added Pin To Net: NetName=NetQ?_1 Pin=R?-2
+Added Pin To Net: NetName=NetQ?_3 Pin=R?-2
+Added Member To Class: ClassName=Circadian2 Member=Component Q? NSS40301
+Added Member To Class: ClassName=Circadian2 Member=Component R? 10R
+Added Member To Class: ClassName=Circadian2 Member=Component R? 10R
+Added Member To Class: ClassName=Circadian2 Member=Component R? 10R
+Added Room: Name=Circadian2

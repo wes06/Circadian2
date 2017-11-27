@@ -1,0 +1,6 @@
+Added Component: Designator=*(PTSM - 4 Way Vertical)
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=PWM Pin=*-2
+Added Pin To Net: NetName=AIN Pin=*-3
+Added Pin To Net: NetName=VIN Pin=*-4
+Added Member To Class: ClassName=Circadian2 Member=Component * PTSM 4 Way

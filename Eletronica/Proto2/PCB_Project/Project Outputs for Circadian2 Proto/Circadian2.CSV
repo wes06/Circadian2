@@ -1,0 +1,15 @@
+"Bill of Material for "
+"On 11/27/2017 at 7:18:37 AM"
+
+"Comment","Pattern","Quantity","Components"
+
+"0R75","RES_SM0603_YAGEORC_N","2","RQA, RQB","RCWE0603R750FKEA"
+"100nF","CAP_SM0603_YAGEOCC2_N","1","C2","CAP 100nF SM0603 X7R 50V YAGEO CC2"
+"10k7","RES_SM0603_YAGEORC_N","1","R2","RES 10R SM0603 YAGEO RC_L"
+"1k5","RES_SM0603_YAGEORC_N","1","R1","RES 10R SM0603 YAGEO RC_L"
+"C1210","1210","2","CIN, CO","Ceramic Chip Capacitor - Standard"
+"GW JTLPS1","E2835","19","L2, L3, L4, L5, L6, L7, L8, L9, L15, L16, L17, L18, L19, LA1, LA10, LB1, LB2, LB3, LB4","Osram LED"
+"LED","E2835","1","LB10","Osram LED"
+"NSS40301","SOIC8","1","Q1",""
+"PTSM 4 Way","PTSM - 4 Way Vertical","1","*",""
+"RCD-24PL_01","RCD-24PL_01","1","RC1",""

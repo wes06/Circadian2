@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=LEDVOUT+ Pin=C2-1
+Removed Pin From Net: NetName=LEDVOUT- Pin=C2-2
+Removed Pin From Net: NetName=LEDVOUT+ Pin=C3-1
+Removed Pin From Net: NetName=LEDVOUT- Pin=C3-2
+Removed Pin From Net: NetName=LEDVOUT+ Pin=C4-1
+Removed Pin From Net: NetName=LEDVOUT- Pin=C4-2
+Removed Pin From Net: NetName=LEDVOUT+ Pin=C5-1
+Removed Pin From Net: NetName=LEDVOUT- Pin=C5-2
+Removed Pin From Net: NetName=NetQ?_3 Pin=Q?-3
+Removed Pin From Net: NetName=NetL10_1 Pin=Q?-4
+Removed Pin From Net: NetName=NetL20_1 Pin=Q?-5
+Removed Pin From Net: NetName=NetL20_1 Pin=Q?-6
+Removed Member From Class: ClassName=Circadian2 Member=C2
+Removed Member From Class: ClassName=Circadian2 Member=C3
+Removed Member From Class: ClassName=Circadian2 Member=C4
+Removed Member From Class: ClassName=Circadian2 Member=C5
+Added Component: Designator=C?(CAP_SM0603_YAGEOCC2_N)
+Added Component: Designator=R?(3-0603)
+Added Component: Designator=R?(3-0603)
+Added Pin To Net: NetName=NetQ?_3 Pin=Q?-3
+Added Pin To Net: NetName=NetL10_1 Pin=Q?-4
+Added Pin To Net: NetName=NetL20_1 Pin=Q?-5
+Added Pin To Net: NetName=NetL20_1 Pin=Q?-6
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=RC1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=R?-2
+Added Pin To Net: NetName=NetC?_1 Pin=R?-2
+Added Pin To Net: NetName=NetC?_1 Pin=RC1-2
+Added Net: Name=NetC?_1
+Added Member To Class: ClassName=Circadian2 Member=Component C? 100nF
+Added Member To Class: ClassName=Circadian2 Member=Component Q? NSS40301
+Added Member To Class: ClassName=Circadian2 Member=Component R1 ERJ3GE
+Added Member To Class: ClassName=Circadian2 Member=Component R2 ERJ3GE
+Added Member To Class: ClassName=Circadian2 Member=Component R? ERJ3EK
+Added Member To Class: ClassName=Circadian2 Member=Component R? ERJ3EK
+Added Room: Name=Circadian2

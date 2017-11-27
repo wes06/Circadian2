@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetQ?_3 Pin=Q?-3
+Removed Pin From Net: NetName=NetL10_1 Pin=Q?-4
+Removed Pin From Net: NetName=NetL20_1 Pin=Q?-5
+Removed Pin From Net: NetName=NetL20_1 Pin=Q?-6
+Removed Member From Class: ClassName=Circadian2 Member=IND1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetQ?_3 Pin=Q?-3
+Added Pin To Net: NetName=NetL10_1 Pin=Q?-4
+Added Pin To Net: NetName=NetL20_1 Pin=Q?-5
+Added Pin To Net: NetName=NetL20_1 Pin=Q?-6
+Added Pin To Net: NetName=VIN Pin=C1-1
+Added Pin To Net: NetName=VIN Pin=RC1-1
+Added Net: Name=VIN
+Added Member To Class: ClassName=Circadian2 Member=Component Q? NSS40301
+Added Member To Class: ClassName=Circadian2 Member=Component R1 ERJ3GE
+Added Member To Class: ClassName=Circadian2 Member=Component R2 ERJ3GE
+Added Member To Class: ClassName=Circadian2 Member=Component R? ERJ3EK
+Added Room: Name=Circadian2

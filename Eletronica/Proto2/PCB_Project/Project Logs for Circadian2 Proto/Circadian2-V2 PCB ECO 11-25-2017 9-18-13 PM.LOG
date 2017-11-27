@@ -1,0 +1,5 @@
+Added Component: Designator=C3(CAP_SM0603_YAGEOCC2_N)
+Added Pin To Net: NetName=VIN Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Member To Class: ClassName=Circadian2 Member=Component C3 100nF
+Added Room: Name=Circadian2

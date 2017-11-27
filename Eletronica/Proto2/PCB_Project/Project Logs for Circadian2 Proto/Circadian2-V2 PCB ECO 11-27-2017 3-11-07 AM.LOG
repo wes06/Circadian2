@@ -1,0 +1,4 @@
+Change Component Comment : Designator=R1 Old Comment=10R New Comment=1k
+Change Component Comment : Designator=R2 Old Comment=10R New Comment=10k
+Change Component Designator: OldDesignator=C1 NewDesignator=CO
+Added Member To Class: ClassName=Circadian2 Member=Component CO C1210

@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=FB1-1
+Removed Pin From Net: NetName=PWM Pin=FB2-1
+Removed Pin From Net: NetName=AIN Pin=FB3-1
+Removed Pin From Net: NetName=VIN Pin=FB4-1
+Removed Member From Class: ClassName=Circadian2 Member=FB1
+Removed Member From Class: ClassName=Circadian2 Member=FB2
+Removed Member From Class: ClassName=Circadian2 Member=FB3
+Removed Member From Class: ClassName=Circadian2 Member=FB4
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=PWM Pin=*-2
+Added Pin To Net: NetName=AIN Pin=*-3
+Added Pin To Net: NetName=VIN Pin=*-4
+Added Member To Class: ClassName=Circadian2 Member=Component C1 C1210
+Added Room: Name=Circadian2

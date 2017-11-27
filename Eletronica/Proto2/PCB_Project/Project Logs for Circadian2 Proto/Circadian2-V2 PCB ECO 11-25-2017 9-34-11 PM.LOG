@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=AIN Pin=FB2-1
+Removed Pin From Net: NetName=PWM Pin=FB3-1
+Added Pin To Net: NetName=PWM Pin=FB2-1
+Added Pin To Net: NetName=AIN Pin=FB3-1
