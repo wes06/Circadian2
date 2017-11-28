@@ -1,0 +1,10 @@
+Preliminary BOM
+
+1pc		PTSM Female
+20pc	OSRAM LED GW JTLPS1.CM
+2pc 	0R75 0603
+1pc 	NSS40301
+1pc 	1k5 0603
+1pc		10k7 0603
+1pc		100nF 50V 0603
+1pc 	10uF 50V 1210
